@@ -103,7 +103,7 @@
               <select v-model="form.status" class="form-control">
                <option value="New">New</option>
 <option value="In Progress">In Progress</option>
-<option value="Converted">Converted</option>
+
 <option value="Cancelled">Cancelled</option>
               </select>
             </div>
